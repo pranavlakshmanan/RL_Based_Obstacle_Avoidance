@@ -1,5 +1,11 @@
 """
-Data structure for implementing experience replay
+Part of the TD3 nerual network training code , its is used to store the immediate past experience by the target network,
+in order to better assess future rewards by the critic networks. No modifications needed in this code, its been directly 
+taken from the below author and his implementation
+"""
+
+"""
+Data structure for implementing experience replay buffer
 Author: Patrick Emami
 """
 import random
