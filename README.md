@@ -52,6 +52,9 @@ drone where flight time was the major goal along with coverage of the agricultur
   - Training sessions exceeded 6 hours
   - Hindered convergence of reward function and loss function stabilization
 
+Work mainly inspired by the paper - Reinis Cimurs,II Hong Suh, Jin Han Lee, Goal-Driven Autonomous Ex-
+ploration Through Deep Reinforcement Learning, 2021.
+
 
 
 
