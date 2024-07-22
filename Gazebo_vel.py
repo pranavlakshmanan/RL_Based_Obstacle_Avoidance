@@ -1,3 +1,7 @@
+#This code is used to make the TD3 network training with the Gazebo environment and Rviz.
+#It uses ros nodes and subscribers to do the same.
+#At the end is the reward function for the actor.
+
 # Import necessary libraries and modules
 import math
 import os
