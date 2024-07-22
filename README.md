@@ -29,6 +29,9 @@ Since the drone moves on a 2D plane on the advice of our mentors we, chose to te
 these methods a differential drive based ground
 robot called the Turtle Bot 3 (Burger Model)
 
+We have used custom reward functions , observation space and action space in order to better mimic the movement of the 
+drone where flight time was the major goal along with coverage of the agriculture field while tracing the contours of the obstacles.
+
 ## Challenges Faced- 
 
 • Simulator selection:
@@ -48,5 +51,8 @@ robot called the Turtle Bot 3 (Burger Model)
   - Lack of high-performance GPU
   - Training sessions exceeded 6 hours
   - Hindered convergence of reward function and loss function stabilization
+
+
+
 
 
